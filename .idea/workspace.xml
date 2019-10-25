@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f86fd341-7a9e-45aa-bef6-2a36fb7128aa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SfkVCK103wHyq3gtSOhOZxB99L" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Facebook\src\test" />
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\CNN\src\test" />
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\CityBank\src\test" />
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Cigna\src\test" />
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Amazon\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="base" />
+      <recent name="searchResult" />
+      <recent name="POM" />
+      <recent name="homepage" />
+      <recent name="utility" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Generic\src\main\resources" />
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Generic\src\main\java" />
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Generic\src\main\resources\resources" />
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Amazon\src\test\java" />
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/Cigna/src/test/resources/CignaRunner.xml">
+    <configuration name="C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/Amazon/src/test/resources/AmazonRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/Cigna/src/test/resources/CignaRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cigna" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Cigna/src/test/resources/CignaRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/Cigna/src/test/resources/CignaRunner.xml" />
+        <item itemvalue="TestNG.C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/Amazon/src/test/resources/AmazonRunner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f86fd341-7a9e-45aa-bef6-2a36fb7128aa" name="Default Changelist" comment="" />
+      <created>1571962058100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571962058100</updated>
+    </task>
+    <servers />
+  </component>
+</project>

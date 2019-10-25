@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Selenium Test Suite" parallel="false">
+
+    <parameter name="cloud" value="false"/>
+    <parameter name="envName" value="saucelabs"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="browserVersion" value="77.0"/>
+    <parameter name="url" value="https://www.citybank.com"/>
+    <parameter name="platform" value="windows"/>
+
+    <test name="Automation tests">
+        <classes>
+            <class name=""/>
+        </classes>
+    </test>
+</suite>
