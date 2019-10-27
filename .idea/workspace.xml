@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f86fd341-7a9e-45aa-bef6-2a36fb7128aa" name="Default Changelist" comment="" />
+    <list default="true" id="f86fd341-7a9e-45aa-bef6-2a36fb7128aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/POM/HomePagePOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/POM/HomePagePOM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/homepage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/homepage/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/homepagetests/SearchTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/homepagetests/SearchTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/homepagetests/WholeFoodsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/amazon-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/amazon-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/POM/HomePagePOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/POM/HomePagePOM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/homepage/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/homepagetests/SearchTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/homepagetests/SearchTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/homepagetests/WholeFoodsTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/classes/homepage/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/classes/homepage/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/cnn-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/cnn-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/cigna-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/cigna-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/classes/homepage/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/classes/homepage/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/test-classes/CignaRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/test-classes/CignaRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/test-classes/META-INF/Cigna.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/test-classes/homePageTests/NavigationTabsTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/test-classes/homePageTests/NavigationTabsTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/src/main/java/homepage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/src/main/java/homepage/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/src/test/resources/CityBankRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/src/test/resources/CityBankRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/cityBank-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/cityBank-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/classes/homepage/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/classes/homepage/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/test-classes/CityBankRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/test-classes/CityBankRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/target/facebook-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/target/facebook-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +62,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +73,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1SfkVCK103wHyq3gtSOhOZxB99L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/resources" />
   </component>
   <component name="RecentsManager">
@@ -61,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/Cigna/src/test/resources/CignaRunner.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/CityBank/src/test/resources/CityBankRunner.xml">
     <configuration name="C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/Amazon/src/test/resources/AmazonRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Amazon" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" />
@@ -82,8 +134,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/CityBank/src/test/resources/CityBankRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CityBank" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CityBank/src/test/resources/CityBankRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/CityBank/src/test/resources/CityBankRunner.xml" />
         <item itemvalue="TestNG.C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/Cigna/src/test/resources/CignaRunner.xml" />
         <item itemvalue="TestNG.C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/Amazon/src/test/resources/AmazonRunner.xml" />
       </list>
@@ -101,5 +164,18 @@
       <updated>1571962058100</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

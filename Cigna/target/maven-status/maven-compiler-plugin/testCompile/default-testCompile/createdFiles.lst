@@ -1,0 +1,5 @@
+homePageTests\CheckOutGlobalProduct.class
+homePageTests\NavigationTabsTests.class
+homePageTests\LoginTest.class
+homePageTests\CignaPOMTest.class
+homePageTests\CoverageAndClaims.class

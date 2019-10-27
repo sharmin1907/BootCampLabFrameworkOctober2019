@@ -10,12 +10,11 @@ import java.util.List;
 public class SearchTests extends HomePage {
     ResultPage resultPage = new ResultPage();
 
-    @Test
+    @Test(enabled = false)
     public void ValidateSearchButtonWorks() {
         clickOnSearchBar();
         typeOnSearchBar("Java Books");
         clickOnSearchButton();
-        sleepFor(2);
         resultPage.validateSearchPageDisplayed();
     }
 

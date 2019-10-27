@@ -12,7 +12,11 @@
 
     <test name="Automation tests">
         <classes>
+            <class name="homepagetests.LoginTest"/>
             <class name="homepagetests.SearchTests"/>
+            <class name="homepagetests.HomePagePOMTest"/>
+            <class name="homepagetests.BrowseProductToCheckOut"/>
+            <class name="homepagetests.SignOutTest"/>
         </classes>
     </test>
 </suite>

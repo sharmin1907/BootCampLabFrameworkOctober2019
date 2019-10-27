@@ -216,4 +216,9 @@ public class CommonAPI {
         JavascriptExecutor javascriptExecutor = (JavascriptExecutor) driver;
         javascriptExecutor.executeScript("arguments[0].scrollIntoView(true);", getElementByLinkText(locator));
     }
+    public void MouseHover(String locator) {
+        WebElement element = getElementByLinkText(locator);
+        Actions actions = new Actions(driver);
+        actions.moveToElement(element).build().perform();
+    }
 }

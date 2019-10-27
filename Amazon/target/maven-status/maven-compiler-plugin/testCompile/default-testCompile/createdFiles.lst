@@ -1,2 +1,5 @@
+homepagetests\LoginTest.class
 homepagetests\SearchTests.class
-homepagetests\WholeFoodsTests.class
+homepagetests\BrowseProductToCheckOut.class
+homepagetests\SignOutTest.class
+homepagetests\HomePagePOMTest.class

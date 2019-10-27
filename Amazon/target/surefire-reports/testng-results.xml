@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="7" total="7" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Extent Report DirectoryC:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Amazon\target\surefire-reports\html]]>
+    </line>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="4" started-at="2019-10-27T16:21:22Z" finished-at="2019-10-27T16:21:22Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="4" started-at="2019-10-27T16:21:22Z" finished-at="2019-10-27T16:21:22Z">
+      <class name="homepagetests.HomePagePOMTest">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:homepagetests.HomePagePOMTest@60addb54]" name="extentSetup" is-config="true" duration-ms="134" started-at="2019-10-27T16:21:22Z" finished-at="2019-10-27T16:21:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@23f7d05d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Report DirectoryC:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Amazon\target\surefire-reports\html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- extentSetup -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:homepagetests.HomePagePOMTest@60addb54]" name="generateReport" is-config="true" duration-ms="202" started-at="2019-10-27T16:21:22Z" finished-at="2019-10-27T16:21:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- homepagetests.HomePagePOMTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

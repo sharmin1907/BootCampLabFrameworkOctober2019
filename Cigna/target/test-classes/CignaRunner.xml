@@ -14,6 +14,9 @@
         <classes>
             <class name="homePageTests.LoginTest"/>
             <class name="homePageTests.NavigationTabsTests"/>
+            <class name="homePageTests.CoverageAndClaims"/>
+            <class name="homePageTests.CheckOutGlobalProduct"/>
+            <class name="homePageTests.CignaPOMTest"/>
         </classes>
     </test>
 </suite>

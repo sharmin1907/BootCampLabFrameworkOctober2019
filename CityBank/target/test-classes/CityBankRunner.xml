@@ -6,13 +6,18 @@
     <parameter name="cloud" value="false"/>
     <parameter name="envName" value="saucelabs"/>
     <parameter name="browser" value="chrome"/>
-    <parameter name="browserVersion" value="77.0"/>
-    <parameter name="url" value="https://www.citybank.com"/>
+    <parameter name="browserVersion" value="78.0"/>
+    <parameter name="url" value="https://online.citi.com"/>
     <parameter name="platform" value="windows"/>
 
     <test name="Automation tests">
         <classes>
-            <class name=""/>
+            <class name="homepageTests.SigninTest"/>
+            <class name="homepageTests.MouseHoverNavigationTabs"/>
+            <class name="homepageTests.CreditCardsPOMTests"/>
+            <class name="homepageTests.ProductOfferingValidationTests"/>
+            <class name="homepageTests.SearchTest"/>
+
         </classes>
     </test>
 </suite>
