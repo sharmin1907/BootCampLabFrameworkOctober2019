@@ -5,12 +5,12 @@
       <![CDATA[Extent Report DirectoryC:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\CityBank\target\surefire-reports\html]]>
     </line>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="4" started-at="2019-10-27T16:21:25Z" finished-at="2019-10-27T16:21:25Z">
+  <suite name="Command line suite" duration-ms="5" started-at="2019-10-27T21:10:42Z" finished-at="2019-10-27T21:10:42Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="4" started-at="2019-10-27T16:21:25Z" finished-at="2019-10-27T16:21:25Z">
+    <test name="Command line test" duration-ms="5" started-at="2019-10-27T21:10:42Z" finished-at="2019-10-27T21:10:42Z">
       <class name="homepageTests.SearchTest">
-        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:homepageTests.SearchTest@5315b42e]" name="extentSetup" is-config="true" duration-ms="127" started-at="2019-10-27T16:21:25Z" finished-at="2019-10-27T16:21:25Z">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:homepageTests.SearchTest@5315b42e]" name="extentSetup" is-config="true" duration-ms="120" started-at="2019-10-27T21:10:42Z" finished-at="2019-10-27T21:10:42Z">
           <params>
             <param index="0">
               <value>
@@ -24,7 +24,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- extentSetup -->
-        <test-method status="PASS" signature="generateReport()[pri:0, instance:homepageTests.SearchTest@5315b42e]" name="generateReport" is-config="true" duration-ms="167" started-at="2019-10-27T16:21:25Z" finished-at="2019-10-27T16:21:25Z">
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:homepageTests.SearchTest@5315b42e]" name="generateReport" is-config="true" duration-ms="182" started-at="2019-10-27T21:10:42Z" finished-at="2019-10-27T21:10:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateReport -->

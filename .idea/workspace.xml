@@ -2,52 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f86fd341-7a9e-45aa-bef6-2a36fb7128aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/POM/HomePagePOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/POM/HomePagePOM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/homepage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/homepage/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/homepagetests/SearchTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/homepagetests/SearchTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/homepagetests/WholeFoodsTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/target/amazon-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/amazon-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/POM/HomePagePOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/POM/HomePagePOM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/homepage/HomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/homepagetests/SearchTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/homepagetests/SearchTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/homepagetests/WholeFoodsTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/target/classes/homepage/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/classes/homepage/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Command line suite/Command line test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Command line suite/Command line test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Command line suite/Command line test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Command line suite/Command line test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Command line suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Command line suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Command line suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Command line suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CNN/target/cnn-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/cnn-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CNN/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cigna/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/Extent-Report/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cigna/target/cigna-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/cigna-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cigna/target/classes/homepage/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/classes/homepage/HomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cigna/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cigna/target/test-classes/CignaRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/test-classes/CignaRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cigna/target/test-classes/META-INF/Cigna.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cigna/target/test-classes/homePageTests/NavigationTabsTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/test-classes/homePageTests/NavigationTabsTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CityBank/src/main/java/homepage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/src/main/java/homepage/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CityBank/src/test/resources/CityBankRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/src/test/resources/CityBankRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/surefire-reports/Command line suite/Command line test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/surefire-reports/Command line suite/Command line test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/surefire-reports/Command line suite/Command line test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/surefire-reports/Command line suite/Command line test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/surefire-reports/old/Command line suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/surefire-reports/old/Command line suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/surefire-reports/old/Command line suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/surefire-reports/old/Command line suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/Extent-Report/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CityBank/target/cityBank-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/cityBank-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CityBank/target/classes/homepage/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/classes/homepage/HomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CityBank/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CityBank/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CityBank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CityBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CityBank/target/test-classes/CityBankRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/test-classes/CityBankRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/surefire-reports/Command line suite/Command line test.html" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/surefire-reports/Command line suite/Command line test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/surefire-reports/Command line suite/Command line test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/surefire-reports/Command line suite/Command line test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/surefire-reports/old/Command line suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/surefire-reports/old/Command line suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/surefire-reports/old/Command line suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/surefire-reports/old/Command line suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityBank/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CityBank/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Facebook/target/facebook-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/target/facebook-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Facebook/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/generic-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,26 +71,26 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/resources" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Facebook\src\test" />
-      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\CNN\src\test" />
-      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\CityBank\src\test" />
-      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Cigna\src\test" />
-      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Amazon\src\test" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="base" />
-      <recent name="searchResult" />
-      <recent name="POM" />
-      <recent name="homepage" />
-      <recent name="utility" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Generic\src\main\resources" />
       <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Generic\src\main\java" />
       <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Generic\src\main\resources\resources" />
       <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Amazon\src\test\java" />
       <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="api" />
+      <recent name="base" />
+      <recent name="searchResult" />
+      <recent name="POM" />
+      <recent name="homepage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Facebook\src\test" />
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\CNN\src\test" />
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\CityBank\src\test" />
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Cigna\src\test" />
+      <recent name="C:\Users\sharm\IdeaProjects\BootCampLabFrameworkOctober2019\Amazon\src\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -113,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/CityBank/src/test/resources/CityBankRunner.xml">
+  <component name="RunManager" selected="TestNG.TestAPI.getAllEmployees">
     <configuration name="C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/Amazon/src/test/resources/AmazonRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Amazon" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" />
@@ -144,8 +136,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestAPI.getAllEmployees" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAPITesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.TestAPI" />
+      <option name="METHOD_NAME" value="getAllEmployees" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestAPI.getAllEmployees" />
         <item itemvalue="TestNG.C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/CityBank/src/test/resources/CityBankRunner.xml" />
         <item itemvalue="TestNG.C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/Cigna/src/test/resources/CignaRunner.xml" />
         <item itemvalue="TestNG.C:/Users/sharm/IdeaProjects/BootCampLabFrameworkOctober2019/Amazon/src/test/resources/AmazonRunner.xml" />

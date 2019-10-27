@@ -15,6 +15,7 @@
         <module>CNN</module>
         <module>Cigna</module>
         <module>CityBank</module>
+        <module>RestAPITesting</module>
     </modules>
     <dependencyManagement>
 
